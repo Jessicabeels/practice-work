@@ -7,4 +7,4 @@ const subReddit = (str) => {
 console.log(subReddit("https://www.reddit.com/r/funny/"))
 
 
-console.log("hello world")
+console.log("hello worlds")
