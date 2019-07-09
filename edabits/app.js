@@ -33,3 +33,4 @@ const palindromeCheck = (str) => {
 }
 
 console.log(palindromeCheck('tiuqwethi'))
+///science
