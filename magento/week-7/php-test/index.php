@@ -8,7 +8,12 @@
 </head>
 <body>
     <?php
-        echo "Hello World"
+        echo "Hello World";
+
+
+        $base = 10;
+        $height = 15;
+        echo " area with base $base and height $height= ".($base*$height)/2;
     ?>
 </body>
 </html>
